@@ -1,6 +1,6 @@
 # Edusity College Landing Page 🎓
 
-A modern, responsive landing page for **Edusity College**, built with **React.js** ⚛️ and deployed using **Vercel** 🚀.
+A modern, responsive landing page for **Edusity College**, built with **React.js** and deployed using **Vercel** 🚀.
 
 ## Technologies Used 🛠️
 
