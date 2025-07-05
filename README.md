@@ -1,8 +1,15 @@
-# React + Vite
+# Edusity College Landing Page 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page for **Edusity College**, built with **React.js** ⚛️ and deployed using **Vercel** 🚀.
 
-Currently, two official plugins are available:
+## Technologies Used 🛠️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js  
+- HTML, CSS & JavaScript  
+- Vercel Deployment  
+
+## Features ✨
+
+- Fully responsive design 📱  
+- Modern UI/UX tailored for Edusity College 🎨  
+- Fast and optimized with React ⚡  
